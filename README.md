@@ -30,6 +30,7 @@ DOCUMENT_CAPTURER/
 ├── pyproject.toml       # Project metadata & dependencies (uv)
 ├── uv.lock              # Lockfile for dependency versions
 ├── .python-version      # Python version pin
+├── requirements.txt     # Packages
 └── README.md            # Project documentation
 ```
 
